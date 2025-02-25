@@ -1,3 +1,3 @@
-it('adds 1+1 is equalt to 2',()=>{
-    expect(1+1).toEqual(2)
+it('adds 2+3 is equalt to 5',()=>{
+    expect(2+3).toEqual(5)
 })
